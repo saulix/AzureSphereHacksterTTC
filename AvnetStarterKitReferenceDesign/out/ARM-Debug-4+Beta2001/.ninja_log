@@ -1,0 +1,23 @@
+# ninja log v5
+10	3378	608247879	CMakeFiles/AvnetStarterKitReferenceDesign.dir/epoll_timerfd_utilities.c.obj	b6342efde14fcef
+17	3382	608247879	CMakeFiles/AvnetStarterKitReferenceDesign.dir/device_twin.c.obj	ef8d0beee5c7f2a5
+48	3385	608247879	CMakeFiles/AvnetStarterKitReferenceDesign.dir/sd1306.c.obj	8f4414356a29eeab
+44	3495	608247879	CMakeFiles/AvnetStarterKitReferenceDesign.dir/i2c.c.obj	e5ce487474ed3acc
+32	3524	608247879	CMakeFiles/AvnetStarterKitReferenceDesign.dir/oled.c.obj	42e771cabc55dc44
+41	3616	608247879	CMakeFiles/AvnetStarterKitReferenceDesign.dir/lps22hh_reg.c.obj	c52b2891edb3e625
+28	3627	608247879	CMakeFiles/AvnetStarterKitReferenceDesign.dir/parson.c.obj	e631013f1ba5ffa7
+23	3635	608247879	CMakeFiles/AvnetStarterKitReferenceDesign.dir/azure_iot_utilities.c.obj	3da0f6f5a1daa98c
+1	3661	608247879	CMakeFiles/AvnetStarterKitReferenceDesign.dir/main.c.obj	3e8c3a2da86fe1b3
+36	4668	608247880	CMakeFiles/AvnetStarterKitReferenceDesign.dir/lsm6dso_reg.c.obj	a1c415c6170b19df
+4702	5440	608247881	AvnetStarterKitReferenceDesign.out	203fd7847e320e2d
+5443	5531	608247881	approotAvnetStarterKitReferenceDesign/app_manifest.json	e7f1dee0153e3e1d
+5440	5627	608247881	approotAvnetStarterKitReferenceDesign/bin/app	3204a860b464eeba
+5628	7097	608247883	AvnetStarterKitReferenceDesign.imagepackage	45f3ec79d1fe51ba
+9	628	608259698	CMakeFiles/AvnetStarterKitReferenceDesign.dir/device_twin.c.obj	ef8d0beee5c7f2a5
+6	629	608259698	CMakeFiles/AvnetStarterKitReferenceDesign.dir/azure_iot_utilities.c.obj	3da0f6f5a1daa98c
+12	630	608259698	CMakeFiles/AvnetStarterKitReferenceDesign.dir/i2c.c.obj	e5ce487474ed3acc
+1	676	608259698	CMakeFiles/AvnetStarterKitReferenceDesign.dir/main.c.obj	3e8c3a2da86fe1b3
+676	927	608259699	AvnetStarterKitReferenceDesign.out	203fd7847e320e2d
+929	1019	608259699	approotAvnetStarterKitReferenceDesign/app_manifest.json	e7f1dee0153e3e1d
+927	1070	608259699	approotAvnetStarterKitReferenceDesign/bin/app	3204a860b464eeba
+1071	1527	608259699	AvnetStarterKitReferenceDesign.imagepackage	45f3ec79d1fe51ba

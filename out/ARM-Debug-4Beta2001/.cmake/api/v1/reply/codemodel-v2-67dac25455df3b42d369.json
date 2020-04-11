@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "IntercoreCommsADC_RTApp_MT3620_BMetal",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "IntercoreCommsADC_RTApp_MT3620_BMetal::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-IntercoreCommsADC_RTApp_MT3620_BMetal-Debug-c22c6136724c118ab9ac.json",
+					"name" : "IntercoreCommsADC_RTApp_MT3620_BMetal",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MakeImage::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MakeImage-Debug-fbc23d8e65ebe007137a.json",
+					"name" : "MakeImage",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Projects/AzureSphere/AzureSphereHacksterTTC/out/ARM-Debug-4Beta2001",
+		"source" : "D:/Projects/AzureSphere/AzureSphereHacksterTTC/InterCoreCommsMT3620_BMetal"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

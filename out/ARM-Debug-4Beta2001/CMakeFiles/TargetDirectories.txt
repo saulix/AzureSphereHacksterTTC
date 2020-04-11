@@ -1,0 +1,4 @@
+D:/Projects/AzureSphere/AzureSphereHacksterTTC/out/ARM-Debug-4Beta2001/CMakeFiles/edit_cache.dir
+D:/Projects/AzureSphere/AzureSphereHacksterTTC/out/ARM-Debug-4Beta2001/CMakeFiles/IntercoreCommsADC_RTApp_MT3620_BMetal.dir
+D:/Projects/AzureSphere/AzureSphereHacksterTTC/out/ARM-Debug-4Beta2001/CMakeFiles/MakeImage.dir
+D:/Projects/AzureSphere/AzureSphereHacksterTTC/out/ARM-Debug-4Beta2001/CMakeFiles/rebuild_cache.dir

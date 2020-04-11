@@ -1,0 +1,4 @@
+D:/Projects/AzureSphere/AzureSphereHacksterTTC/AvnetStarterKitReferenceDesign/out/ARM-Debug-4+Beta2001/CMakeFiles/AvnetStarterKitReferenceDesign.dir
+D:/Projects/AzureSphere/AzureSphereHacksterTTC/AvnetStarterKitReferenceDesign/out/ARM-Debug-4+Beta2001/CMakeFiles/MakeImage.dir
+D:/Projects/AzureSphere/AzureSphereHacksterTTC/AvnetStarterKitReferenceDesign/out/ARM-Debug-4+Beta2001/CMakeFiles/edit_cache.dir
+D:/Projects/AzureSphere/AzureSphereHacksterTTC/AvnetStarterKitReferenceDesign/out/ARM-Debug-4+Beta2001/CMakeFiles/rebuild_cache.dir
